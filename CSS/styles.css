@@ -1,0 +1,11 @@
+   /* Asignar color a u */
+a {  
+    color : rgb(170, 195, 218);
+    text-decoration: none ;
+    font-size: 20px;
+    margin: 5px;
+}
+ /* Referencia a un ID */
+#red {
+    color : rgb(226, 100, 96)
+}
