@@ -9,3 +9,10 @@ a {
 #red {
     color : rgb(226, 100, 96)
 }
+
+#PIE {
+    color : rgb(69, 14, 47);
+    text-decoration: none ;
+    font-size: 20px;
+    margin: 5px;
+}
